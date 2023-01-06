@@ -1,3 +1,7 @@
+#  Copyright (c) 2023. Daniel Arnold
+#  All rights reserved
+
+
 def sort_words(words):
     sorted_words = words.split()
     sorted_words.sort(key=str.casefold)

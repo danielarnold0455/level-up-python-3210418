@@ -1,3 +1,6 @@
+#  Copyright (c) 2023. Daniel Arnold
+#  All rights reserved
+
 import re
 import string
 
